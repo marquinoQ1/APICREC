@@ -1,0 +1,122 @@
+D:\Web_Api\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.csproj.AssemblyReference.cache
+D:\Web_Api\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web_Api\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.AssemblyInfoInputs.cache
+D:\Web_Api\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.AssemblyInfo.cs
+D:\Web_Api\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.csproj.CoreCompileInputs.cache
+D:\Web_Api\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.MvcApplicationPartsAssemblyInfo.cs
+D:\Web_Api\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.MvcApplicationPartsAssemblyInfo.cache
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\appsettings.Development.json
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\appsettings.json
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\WEB_API_APP_CRECIENDO.exe
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\WEB_API_APP_CRECIENDO.deps.json
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\WEB_API_APP_CRECIENDO.runtimeconfig.json
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\WEB_API_APP_CRECIENDO.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\WEB_API_APP_CRECIENDO.pdb
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Dapper.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Scrutor.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\System.Data.SqlClient.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\obj\Release\net6.0\staticwebassets.build.json
+D:\Web_Api\WEB_API_APP_CRECIENDO\obj\Release\net6.0\staticwebassets.development.json
+D:\Web_Api\WEB_API_APP_CRECIENDO\obj\Release\net6.0\scopedcss\bundle\WEB_API_APP_CRECIENDO.styles.css
+D:\Web_Api\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.csproj.CopyComplete
+D:\Web_Api\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\obj\Release\net6.0\refint\WEB_API_APP_CRECIENDO.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.pdb
+D:\Web_Api\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.genruntimeconfig.cache
+D:\Web_Api\WEB_API_APP_CRECIENDO\obj\Release\net6.0\ref\WEB_API_APP_CRECIENDO.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\System.Drawing.Common.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Web_Api\WEB_API_APP_CRECIENDO\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\appsettings.Development.json
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\appsettings.json
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\WEB_API_APP_CRECIENDO.exe
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\WEB_API_APP_CRECIENDO.deps.json
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\WEB_API_APP_CRECIENDO.runtimeconfig.json
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\WEB_API_APP_CRECIENDO.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\WEB_API_APP_CRECIENDO.pdb
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Dapper.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Scrutor.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\System.Data.SqlClient.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\System.Drawing.Common.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.csproj.AssemblyReference.cache
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.AssemblyInfoInputs.cache
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.AssemblyInfo.cs
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.csproj.CoreCompileInputs.cache
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.MvcApplicationPartsAssemblyInfo.cs
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.MvcApplicationPartsAssemblyInfo.cache
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\staticwebassets.build.json
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\staticwebassets.development.json
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\scopedcss\bundle\WEB_API_APP_CRECIENDO.styles.css
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.csproj.CopyComplete
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\refint\WEB_API_APP_CRECIENDO.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.pdb
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\WEB_API_APP_CRECIENDO.genruntimeconfig.cache
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\ref\WEB_API_APP_CRECIENDO.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\FCM.Net.Core.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\staticwebassets\msbuild.WEB_API_APP_CRECIENDO.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\staticwebassets\msbuild.build.WEB_API_APP_CRECIENDO.props
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.WEB_API_APP_CRECIENDO.props
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.WEB_API_APP_CRECIENDO.props
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\obj\Release\net6.0\staticwebassets.pack.json
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\NuGet.Common.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\NuGet.Configuration.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\NuGet.Frameworks.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\NuGet.Packaging.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\NuGet.Protocol.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\NuGet.Versioning.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\RestSharp.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\System.Text.Encodings.Web.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\System.Text.Json.dll
+D:\Nuevo appi crec\WE\WEB_API_APP_CRECIENDO\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
